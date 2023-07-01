@@ -1,2 +1,2 @@
-# Caca-Palavras
-Caça Palavras em C
+## Caca-Palavras
+Um jogo simples de caça palavras em C
